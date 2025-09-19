@@ -42,4 +42,4 @@ cook(ramen);
 console.log("===========");
 cook(fry);
 console.log("===========");
-cook(fry());
+cook(fry()); // 에러
